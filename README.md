@@ -6,10 +6,9 @@
 
 Welcome to the 2D Maze Game! This project is an exciting and challenging game that tests your problem-solving skills as you navigate through intricate mazes. With captivating gameplay and immersive visuals, it offers hours of fun for players of all ages.
 
-[Link to Deployed Site](https://www.example.com)
-[Link to Final Project Blog Article](https://www.example.com)
-[Author 1's LinkedIn Profile](https://www.linkedin.com/author1)
-[Author 2's LinkedIn Profile](https://www.linkedin.com/author2)
+[Link to Deployed Site](https://muuo.codes/)
+[Link to Final Project Blog Article](https://muuo.codes/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/)
+[Author 1's LinkedIn Profile](https://www.linkedin.com/in/evansmuuo/)
 
 ## Installation
 
@@ -17,7 +16,7 @@ To install and run the 2D Maze Game on your local machine, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/2d-maze-game.git
+   git clone https://github.com/codelord-evans/2d-maze-game.git
    ```
 
 2. Navigate to the project directory:
@@ -62,7 +61,7 @@ We appreciate your contributions and will review them as soon as possible.
 
 Here are some related projects that you may find interesting:
 
-- [Maze Solver Algorithm](https://github.com/your-username/maze-solver-algorithm): An algorithm to solve mazes programmatically.
+- [Maze Solver Algorithm](https://github.com/codelord-evans/maze-solver-algorithm): An algorithm to solve mazes programmatically.
 
 ## Licensing
 
